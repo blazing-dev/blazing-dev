@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Senior backend Developer @ XIOTS
 **Tech Stack**
-Python Django Django Rest Framework Knox JWT Stripe iCabbi Big Blue Button Postgres Django-tenants multi schemas web sockets pusher celery heroku
+Python | Django | Django-rest-framework |  Knox | JWT | Stripe | iCabbi | Big-Blue-Button | Postgres | Django-tenants | multi-schemas | web-sockets | pusher | celery | heroku
