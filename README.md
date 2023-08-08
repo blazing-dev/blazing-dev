@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Software Engineer @ XIOTS
 **Tech Stack**
-Python | Django | Django-rest-framework |  Knox | JWT | Stripe | iCabbi | Big-Blue-Button | Postgres | Django-tenants | multi-schemas | web-sockets | pusher | celery | heroku
+Python | Django | Django-rest-framework | Micro Services | Knox | JWT | Stripe | iCabbi | Big-Blue-Button | Postgres | Django-tenants | multi-schemas | web-sockets | pusher | celery | heroku
