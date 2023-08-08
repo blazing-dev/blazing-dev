@@ -8,6 +8,6 @@
 blazing-dev/blazing-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Senior backend Developer @ XIOTS
+Software Engineer @ XIOTS
 **Tech Stack**
 Python | Django | Django-rest-framework |  Knox | JWT | Stripe | iCabbi | Big-Blue-Button | Postgres | Django-tenants | multi-schemas | web-sockets | pusher | celery | heroku
