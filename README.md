@@ -2,7 +2,7 @@
 
 💻 Python/Django Developer | Crafting scalable web apps 🛠️ | Lover of clean code & DRY principles ✨ | Open to collaborations 🚀
 
-https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=Django)
 
 <!---
 blazing-dev/blazing-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
