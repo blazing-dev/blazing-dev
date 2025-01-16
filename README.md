@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/-postgresql-%23b7cced?style=for-the-badge&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Azure-darkblue?style=for-the-badge&logo=kubernetes" alt="Microsoft Azure">
   <img src="https://img.shields.io/badge/-stripe-%2381b0fc?style=for-the-badge&logo=stripe" alt="Stripe">
+  <img src="https://img.shields.io/badge/-flask-%232c9446?style=for-the-badge&logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/-Fast%20API-%239adfe6?style=for-the-badge&logo=fastapi" alt="Fast API">
 </p>
 
 ---
