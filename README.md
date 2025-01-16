@@ -18,12 +18,6 @@
 
 <h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
-Python | Django | Django-rest-framework | Micro Services | Knox | JWT | Stripe | iCabbi | Big-Blue-Button | Postgres | Django-tenants | Multi-schemas | Web-sockets | Pusher | Celery | Heroku
+Python | Django | Django-rest-framework | Micro Services | Knox | JWT | Stripe | Dispatch | Big-Blue-Button | Postgres | Django-tenants | Multi-schemas | Web-sockets | Pusher | Celery | Heroku | Ms Azure |
 </p>
 
----
-
-<p align="center">
-✨ blazing-dev/blazing-dev is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. 
-You can click the Preview link to take a look at your changes. ✨
-</p>
