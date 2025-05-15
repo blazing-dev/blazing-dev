@@ -20,6 +20,6 @@
 
 <h3 align="center">💡 Tech Stack 💡</h3>
 <p align="center">
-Python | Django | Django-rest-framework | Micro Services | Knox | JWT | Stripe | Dispatch | Big-Blue-Button | Postgres | Django-tenants | Multi-schemas | Web-sockets | Pusher | Celery | Heroku | Ms Azure |
+Python | Django | Django-rest-framework | Rest APIs | Graphql | Micro Services | Knox | JWT | Stripe | Dispatch | Big-Blue-Button | Postgres | Django-tenants | Multi-schemas | Web-sockets | Pusher | Celery | Heroku | Ms Azure |
 </p>
 
