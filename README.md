@@ -1,52 +1,47 @@
-<h1 align="center">Muhammad Abdullah</h1>
-<h3 align="center">Senior Backend Engineer | Django, FastAPI, Distributed Systems, Payments & Multi-Tenant SaaS</h3>
+<div align="center">
 
-<p align="center">
-I build production-grade backend systems with Python, Django, FastAPI, and PostgreSQL — focused on scalable SaaS platforms, payment infrastructure, multi-tenant architectures, internal business systems, and API-driven products.
+# Muhammad Abdullah
+
+### Senior Software Engineer • Python / Django / FastAPI • Cloud, Payments, Distributed Systems & IoT Integrations
+
+<p>
+I’m a software engineer with <strong>7+ years of experience</strong> building production systems across <strong>backend engineering, SaaS platforms, payments, multi-tenant architecture, microservices, cloud deployments, and IoT-connected products</strong>.
 </p>
 
-<p align="center">
+<p>
+I specialize in building systems that are not just functional, but commercially useful, operationally reliable, and scalable in production.
+</p>
+
+<p>
   <a href="https://github.com/blazing-dev">
-    <img src="https://img.shields.io/badge/GitHub-blazing--dev-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-blazing--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p>
+</div>
 
 ---
 
-## About Me
+# About Me
 
-I’m a software engineer with **7+ years of experience** building and maintaining backend-heavy web platforms and business systems. My work has focused on **Django/FastAPI ecosystems**, **payment flows**, **multi-tenant SaaS products**, **microservices**, and **operationally reliable backend architecture**.
+I build **backend-heavy products and business systems** using Python with a focus on **Django**, **FastAPI**, **distributed backend services**, **payments**, **multi-tenant SaaS**, and **cloud-native deployment workflows**.
 
-I’ve worked on systems across domains such as:
+Over the years, I’ve worked on systems involving:
 
-* **Payments & billing platforms** with advanced Stripe integrations
-* **Restaurant and booking systems**
-* **Dispatch / ride-hauling workflows**
-* **Internal ERP-style and inventory platforms**
-* **Tenant-based SaaS systems with schema isolation**
-* **APIs and services powering mobile and web products**
+* **Stripe-powered billing, invoicing, subscriptions, payment intents, connected account flows, and webhook orchestration**
+* **Restaurant, dispatch, booking, HR, inventory, and operational business platforms**
+* **Multi-tenant Django applications with schema-based tenancy**
+* **FastAPI / Flask microservices alongside legacy Django systems**
+* **IoT-connected and device-integrated workflows where software meets real-world operations**
+* **Deployment pipelines, VPS/cloud infrastructure, and backend reliability improvements**
 
-I care about **clean architecture, maintainable code, practical scalability, and shipping systems that hold up in production**.
+I care deeply about **clean architecture, maintainable systems, idempotent workflows, backend reliability, and building products that can actually run at scale**.
 
 ---
 
-## What I Work With
+# Core Engineering Areas
 
-### Backend & APIs
+## Backend Engineering
 
 * Python
 * Django
@@ -56,96 +51,366 @@ I care about **clean architecture, maintainable code, practical scalability, and
 * REST APIs
 * GraphQL
 * JWT / Knox / token-based authentication
-* Webhooks & event-driven workflows
-* Background job systems
+* Async services and service-to-service communication
 
-### Data & Architecture
+## Architecture & Systems
+
+* Microservices
+* Distributed workflows
+* Event-driven processing
+* Background jobs / task queues
+* Multi-tenant SaaS architecture
+* Schema-based tenancy with `django-tenants`
+* Idempotent API and payment flows
+* Real-time systems using WebSockets / Pusher
+
+## Data & Infrastructure
 
 * PostgreSQL
-* Multi-tenant systems with `django-tenants`
-* Schema-based tenancy / multi-schema architecture
 * Redis
 * Celery
-* Distributed systems & service-to-service communication
-* Idempotent API and payment workflows
-
-### Payments & Integrations
-
-* Stripe subscriptions, invoices, payment intents, and connected account workflows
-* Payment orchestration and webhook processing
-* Third-party integrations for operational platforms
-* Realtime systems using WebSockets / Pusher
-
-### DevOps / Cloud / Deployment
-
 * Docker
 * CI/CD pipelines
 * Microsoft Azure
-* VPS-based deployments
-* Production environment setup and deployment workflows
-* Monitoring, reliability, and operational improvements
+* VPS-based production deployments
+* Monitoring, debugging, and backend operations
+
+## Payments & Business Platforms
+
+* Stripe subscriptions, invoices, payment intents, checkout and webhook workflows
+* Payment orchestration layers
+* Restaurant systems
+* Dispatch / booking systems
+* Inventory / internal business systems
+* ERP-style operational platforms
+
+## IoT & Device-Connected Software
+
+I also have a strong interest in the intersection of **software and connected systems**, especially where backend platforms interact with **devices, hardware workflows, automation, real-world operations, or IoT-style integrations**.
+
+That includes work and interest around:
+
+* Device-driven operational systems
+* Backend APIs for smart workflows
+* Event ingestion / device-originated events
+* Automation systems that bridge software with physical operations
+* Scalable backend foundations for IoT-enabled products
 
 ---
 
-## Experience Snapshot
+# Tech Stack
 
-### Senior Backend / Software Engineer
+<div align="center">
 
-I design and build backend systems with a strong focus on **business-critical workflows**, **API architecture**, and **production reliability**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
 
-Some of the areas I’ve worked on include:
-
-* Building **Stripe-powered invoicing and payment systems** with real production workflows around invoices, intents, webhooks, and account-based payment flows
-* Developing **multi-tenant Django applications** with shared infrastructure and tenant-specific schema separation
-* Building **FastAPI and Flask microservices** alongside Django-based platforms
-* Designing **dispatch and booking systems** for real operational use cases
-* Creating internal systems for **restaurant operations, inventory, HR, and business process management**
-* Improving deployment and release workflows with **Docker, CI/CD, and cloud/VPS infrastructure**
-* Refactoring legacy backend systems into more modular service-oriented architectures
-
----
-
-## Engineering Focus
-
-I’m particularly interested in:
-
-* Backend architecture for SaaS products
-* Payments, billing, and financial workflows
-* Multi-tenant system design
-* Service decomposition and microservices
-* API design for web and mobile applications
-* Reliability, idempotency, and background processing
-* Building products that are both technically solid and commercially useful
+</div>
 
 ---
 
-## Tech Stack
+# What I Build
 
-```text
-Python • Django • Django REST Framework • FastAPI • Flask • PostgreSQL
-Redis • Celery • Stripe • JWT • Knox • GraphQL • Docker • Azure
-Microservices • Multi-Tenant SaaS • WebSockets • Pusher • CI/CD
-```
+## SaaS & Multi-Tenant Platforms
+
+I build SaaS systems with **tenant isolation, scalable API design, and backend architectures that support long-term product growth**.
+
+## Payments & Financial Workflows
+
+I’ve worked deeply with **Stripe** across invoicing, payment intents, webhooks, connected accounts, retries, reconciliation-style flows, and production-grade payment handling.
+
+## Distributed Backend Systems
+
+I design systems that split responsibilities across services while preserving **data integrity, reliability, idempotency, and operational clarity**.
+
+## Internal Business Platforms
+
+A large part of my work has involved building software for **real operational businesses** — including restaurants, booking flows, dispatch, HR, invoicing, and internal process automation.
+
+## IoT / Device-Aware Products
+
+I’m also interested in systems where **backend software powers real-world device workflows**, automation, and connected operational environments.
 
 ---
 
-## Current Focus
+# Experience Snapshot
 
-Right now, I’m especially interested in building and scaling systems around:
+### Senior Software Engineer
 
-* **Backend-heavy SaaS products**
-* **Payment and subscription platforms**
-* **Cloud-ready Python services**
-* **Multi-tenant applications**
-* **Automation-driven business tools**
-* **Commercial software products with real operational value**
+I work primarily on **backend architecture, APIs, system integrations, and production workflows**.
+
+My work includes:
+
+* Designing and maintaining **large Django-based business platforms**
+* Building **FastAPI / Flask services** around existing systems
+* Creating **payment infrastructure and Stripe integrations**
+* Implementing **multi-tenant database architectures**
+* Designing **dispatch, booking, HR, restaurant, and inventory systems**
+* Improving deployment workflows with **Docker, CI/CD, Azure, and VPS infrastructure**
+* Refactoring legacy codebases into more modular service-oriented systems
+* Solving reliability issues in asynchronous and event-driven backend workflows
 
 ---
 
-## Let’s Connect
+# GitHub Stats
 
-If you’re building something around **Python, Django, FastAPI, payments, SaaS, or scalable backend systems**, feel free to connect or reach out.
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/blazing-dev">GitHub</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blazing-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blazing-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazing-dev&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# Engineering Principles
+
+* Build for **clarity first**, then scale intelligently
+* Prefer **clean architecture** over clever code
+* Design systems for **idempotency, resilience, and maintainability**
+* Keep business logic explicit and testable
+* Optimize for **production reliability**, not just local correctness
+* Build software that solves **real operational problems**
+
+---
+
+# Current Focus
+
+Right now, I’m especially focused on:
+
+* Backend-heavy SaaS products
+* Distributed service architecture
+* Payment and billing systems
+* Multi-tenant product design
+* Cloud/VPS deployment pipelines
+* Commercial product ideas around backend automation, operations, and IoT-connected systems
+
+---
+
+# Let’s Connect
+
+If you’re building something around **Python, Django, FastAPI, payments, cloud systems, multi-tenant SaaS, operational software, or IoT-enabled products**, I’m always happy to connect and collaborate.
+<div align="center">
+
+# Muhammad Abdullah
+
+### Senior Software Engineer • Python / Django / FastAPI • Cloud, Payments, Distributed Systems & IoT Integrations
+
+<p>
+I’m a software engineer with <strong>7+ years of experience</strong> building production systems across <strong>backend engineering, SaaS platforms, payments, multi-tenant architecture, microservices, cloud deployments, and IoT-connected products</strong>.
 </p>
+
+<p>
+I specialize in building systems that are not just functional, but commercially useful, operationally reliable, and scalable in production.
+</p>
+
+<p>
+  <a href="https://github.com/blazing-dev">
+    <img src="https://img.shields.io/badge/GitHub-blazing--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+# About Me
+
+I build **backend-heavy products and business systems** using Python with a focus on **Django**, **FastAPI**, **distributed backend services**, **payments**, **multi-tenant SaaS**, and **cloud-native deployment workflows**.
+
+Over the years, I’ve worked on systems involving:
+
+* **Stripe-powered billing, invoicing, subscriptions, payment intents, connected account flows, and webhook orchestration**
+* **Restaurant, dispatch, booking, HR, inventory, and operational business platforms**
+* **Multi-tenant Django applications with schema-based tenancy**
+* **FastAPI / Flask microservices alongside legacy Django systems**
+* **IoT-connected and device-integrated workflows where software meets real-world operations**
+* **Deployment pipelines, VPS/cloud infrastructure, and backend reliability improvements**
+
+I care deeply about **clean architecture, maintainable systems, idempotent workflows, backend reliability, and building products that can actually run at scale**.
+
+---
+
+# Core Engineering Areas
+
+## Backend Engineering
+
+* Python
+* Django
+* Django REST Framework
+* FastAPI
+* Flask
+* REST APIs
+* GraphQL
+* JWT / Knox / token-based authentication
+* Async services and service-to-service communication
+
+## Architecture & Systems
+
+* Microservices
+* Distributed workflows
+* Event-driven processing
+* Background jobs / task queues
+* Multi-tenant SaaS architecture
+* Schema-based tenancy with `django-tenants`
+* Idempotent API and payment flows
+* Real-time systems using WebSockets / Pusher
+
+## Data & Infrastructure
+
+* PostgreSQL
+* Redis
+* Celery
+* Docker
+* CI/CD pipelines
+* Microsoft Azure
+* VPS-based production deployments
+* Monitoring, debugging, and backend operations
+
+## Payments & Business Platforms
+
+* Stripe subscriptions, invoices, payment intents, checkout and webhook workflows
+* Payment orchestration layers
+* Restaurant systems
+* Dispatch / booking systems
+* Inventory / internal business systems
+* ERP-style operational platforms
+
+## IoT & Device-Connected Software
+
+I also have a strong interest in the intersection of **software and connected systems**, especially where backend platforms interact with **devices, hardware workflows, automation, real-world operations, or IoT-style integrations**.
+
+That includes work and interest around:
+
+* Device-driven operational systems
+* Backend APIs for smart workflows
+* Event ingestion / device-originated events
+* Automation systems that bridge software with physical operations
+* Scalable backend foundations for IoT-enabled products
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+
+</div>
+
+---
+
+# What I Build
+
+## SaaS & Multi-Tenant Platforms
+
+I build SaaS systems with **tenant isolation, scalable API design, and backend architectures that support long-term product growth**.
+
+## Payments & Financial Workflows
+
+I’ve worked deeply with **Stripe** across invoicing, payment intents, webhooks, connected accounts, retries, reconciliation-style flows, and production-grade payment handling.
+
+## Distributed Backend Systems
+
+I design systems that split responsibilities across services while preserving **data integrity, reliability, idempotency, and operational clarity**.
+
+## Internal Business Platforms
+
+A large part of my work has involved building software for **real operational businesses** — including restaurants, booking flows, dispatch, HR, invoicing, and internal process automation.
+
+## IoT / Device-Aware Products
+
+I’m also interested in systems where **backend software powers real-world device workflows**, automation, and connected operational environments.
+
+---
+
+# Experience Snapshot
+
+### Senior Software Engineer
+
+I work primarily on **backend architecture, APIs, system integrations, and production workflows**.
+
+My work includes:
+
+* Designing and maintaining **large Django-based business platforms**
+* Building **FastAPI / Flask services** around existing systems
+* Creating **payment infrastructure and Stripe integrations**
+* Implementing **multi-tenant database architectures**
+* Designing **dispatch, booking, HR, restaurant, and inventory systems**
+* Improving deployment workflows with **Docker, CI/CD, Azure, and VPS infrastructure**
+* Refactoring legacy codebases into more modular service-oriented systems
+* Solving reliability issues in asynchronous and event-driven backend workflows
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=blazing-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=blazing-dev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazing-dev&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# Engineering Principles
+
+* Build for **clarity first**, then scale intelligently
+* Prefer **clean architecture** over clever code
+* Design systems for **idempotency, resilience, and maintainability**
+* Keep business logic explicit and testable
+* Optimize for **production reliability**, not just local correctness
+* Build software that solves **real operational problems**
+
+---
+
+# Current Focus
+
+Right now, I’m especially focused on:
+
+* Backend-heavy SaaS products
+* Distributed service architecture
+* Payment and billing systems
+* Multi-tenant product design
+* Cloud/VPS deployment pipelines
+* Commercial product ideas around backend automation, operations, and IoT-connected systems
+
+---
+
+# Let’s Connect
+
+If you’re building something around **Python, Django, FastAPI, payments, cloud systems, multi-tenant SaaS, operational software, or IoT-enabled products**, I’m always happy to connect and collaborate.
