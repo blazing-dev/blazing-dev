@@ -219,17 +219,9 @@ Areas of interest include:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=blazing-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=blazing-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muhammad Abdullah GitHub Stats" />
 
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=blazing-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazing-dev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=blazing-dev&theme=tokyonight&hide_border=true" alt="Muhammad Abdullah GitHub Streak" />
 
 </div>
 
@@ -237,7 +229,15 @@ Areas of interest include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazing-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazing-dev&theme=tokyo-night&hide_border=true&area=true" alt="Muhammad Abdullah GitHub Activity Graph" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazing-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Abdullah Top Languages" />
 
 </div>
 
@@ -247,9 +247,10 @@ Areas of interest include:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=blazing-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=blazing-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="Muhammad Abdullah GitHub Trophies" />
 
 </div>
+
 
 ---
 
